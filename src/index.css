@@ -1,0 +1,13 @@
+body {
+    background-color: aliceblue;
+}
+
+.form {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+
+.input-text {
+    padding: 10px;
+}

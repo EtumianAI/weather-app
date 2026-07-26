@@ -33,6 +33,7 @@ function App() {
 
   return (
     <div
+      id="main"
       style={{
         padding: "20px",
         fontFamily: "sans-serif",
